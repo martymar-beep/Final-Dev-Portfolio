@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s0mtg4libo",
+  "description": "https://scrimba.com/s0mtg4libo/refs/o032159293",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
